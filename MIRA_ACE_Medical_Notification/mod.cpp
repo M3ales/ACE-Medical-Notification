@@ -1,0 +1,12 @@
+name = "Ace Medical Menu Notification";
+tooltipOwned="ACE Medical Notificaiton";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+hideName = 0;
+hidePicture = 0;
+actionName = "Github";
+action = "https://github.com/M3ales/";
+description = "";
+overview = "";
