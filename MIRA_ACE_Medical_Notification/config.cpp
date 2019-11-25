@@ -17,7 +17,7 @@ class CfgFunctions {
             tag = "MIRA_ACE_Medical_Notify";
             requiredAddons[] = {"ace_medical", "ace_common"};
             file = QUOTE(CONCAT(ADDON,\functions));
-            class addMedicalMenuOpenedHandler {};
+            class addMedNotif {};
         };
 	};
 };
